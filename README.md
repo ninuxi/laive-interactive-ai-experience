@@ -12,7 +12,9 @@
     <strong>Project Website:</strong> <a href="https://jamais.altervista.org">https://jamais.altervista.org</a>
   </p>
 </div>
-
+<div align="center">
+  <strong><a href="ABOUT.md">✨ About Me & The Vision Behind LAIVE ✨</a></strong>
+</div>
 ---
 
 ## 🚀 The Project
