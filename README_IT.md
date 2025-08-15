@@ -11,6 +11,9 @@
 
 **Sito del Progetto:** [https://jamais.altervista.org](https://jamais.altervista.org)
 
+<div align="center">
+  <strong><a href="ABOUT_IT.md">✨ La Visione Dietro LAIVE ✨</a></strong>
+</div>
 ---
 
 ## 🚀 Il Progetto
