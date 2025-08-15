@@ -39,7 +39,7 @@ The result is a multi-sensory journey where every performance is unique and unre
 
 The "Welcome To The Machine" video introduces the vision and potential of LAIVE. It showcases how a simple text prompt can bring a complex audiovisual creation to life, demonstrating the system's ability to interpret abstract concepts and turn them into art.
 
-[![LAIVE Showcase Video]https://jamais.altervista.org/wp-content/uploads/2024/03/DALL·E-2024-03-27-16.20.08-Imagine-a-futuristic-live-performance-space-even-more-vibrant-and-alive-under-a-starlit-sky.-This-time-prominently-in-the-center-of-the-stage-there.webp](URL_DEL_VIDEO_MP4_NEL_REPO)
+[![LAIVE Showcase Video]"https://jamais.altervista.org/wp-content/uploads/2024/03/DALL·E-2024-03-27-16.20.08-Imagine-a-futuristic-live-performance-space-even-more-vibrant-and-alive-under-a-starlit-sky.-This-time-prominently-in-the-center-of-the-stage-there.webp"](URL_DEL_VIDEO_MP4_NEL_REPO)
 
 ---
 
