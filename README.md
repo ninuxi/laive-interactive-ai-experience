@@ -3,7 +3,8 @@
 </div>
 
 <div align="center">
-  <img src="https://jamais.altervista.org/wp-content/uploads/2024/03/logo01.png" alt="LAIVE Logo" width="150"/>
+  <img src="URL_DEL_TUO_LOGO_QUI" alt="LAIVE Logo" width="150"/>
+  <h1>LAIVE: Interactive AI Experience</h1>
   <p>
     By merging creativity, artificial intelligence, and a deep understanding of live performance, we craft immersive experiences that combine sound, light, and video in unprecedented ways.
   </p>
@@ -38,7 +39,11 @@ The result is a multi-sensory journey where every performance is unique and unre
 
 The "Welcome To The Machine" video introduces the vision and potential of LAIVE. It showcases how a simple text prompt can bring a complex audiovisual creation to life, demonstrating the system's ability to interpret abstract concepts and turn them into art.
 
-[![LAIVE Showcase Video](https://jamais.altervista.org/wp-content/uploads/2024/03/DALL·E-2024-03-27-16.20.08-Imagine-a-futuristic-live-performance-space-even-more-vibrant-and-alive-under-a-starlit-sky.-This-time-prominently-in-the-center-of-the-stage-there.webp)](https://youtube.com/shorts/rvX0UMfHyOQ?feature=share)
+<div align="center">
+  <a href="https://youtube.com/shorts/rvX0UMfHyOQ?feature=share" target="_blank">
+    <img src="https://jamais.altervista.org/wp-content/uploads/2024/03/DALL·E-2024-03-27-16.20.08-Imagine-a-futuristic-live-performance-space-even-more-vibrant-and-alive-under-a-starlit-sky.-This-time-prominently-in-the-center-of-the-stage-there.webp" alt="LAIVE Showcase Video" width="500">
+  </a>
+</div>
 
 ---
 
