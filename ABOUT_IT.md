@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Sla Visione Dietro LAIVE</h1>
+  <h1>Visione Dietro LAIVE</h1>
 </div>
 
 ---
