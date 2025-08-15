@@ -3,8 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Su di Me e la Visione Dietro LAIVE</h1>
-  <p><em>Il viaggio da un'ispirazione musicale a un'esperienza AI interattiva.</em></p>
+  <h1>Sla Visione Dietro LAIVE</h1>
 </div>
 
 ---
