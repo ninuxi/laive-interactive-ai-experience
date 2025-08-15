@@ -3,8 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>About Me & The Vision Behind LAIVE</h1>
-  <p><em>The journey from a musical inspiration to an interactive AI experience.</em></p>
+  <h1>Behind LAIVE</h1>
 </div>
 
 ---
