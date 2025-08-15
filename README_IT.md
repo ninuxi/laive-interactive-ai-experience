@@ -1,4 +1,4 @@
-<div align="right">
+  <div align="right">
   <a href="README.md">English</a> | <strong>Italiano</strong>
 </div>
 
@@ -37,7 +37,11 @@ Il risultato è un'esperienza multisensoriale, un viaggio emozionante dove ogni 
 
 Il video "Welcome To The Machine" introduce la visione e le potenzialità di LAIVE. Mostra come un semplice prompt testuale possa dare vita a una complessa creazione audiovisiva, dimostrando la capacità del sistema di interpretare concetti astratti e trasformarli in arte.
 
-[![Video di Presentazione LAIVE](URL_DI_UNA_IMMAGINE_O_GIF_DEL_VIDEO)](URL_DEL_VIDEO_MP4_NEL_REPO)
+<div align="center">
+  <a href="https://youtube.com/shorts/5nIeDxyBs1U?feature=share" target="_blank">
+    <img src="https://jamais.altervista.org/wp-content/uploads/2024/03/DALL·E-2024-03-27-16.20.08-Imagine-a-futuristic-live-performance-space-even-more-vibrant-and-alive-under-a-starlit-sky.-This-time-prominently-in-the-center-of-the-stage-there.webp" alt="Video di Presentazione LAIVE" width="500">
+  </a>
+</div>
 
 ---
 
