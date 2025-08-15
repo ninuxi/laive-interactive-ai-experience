@@ -13,7 +13,7 @@
   </p>
 </div>
 <div align="center">
-  <strong><a href="ABOUT.md">✨ About Me & The Vision Behind LAIVE ✨</a></strong>
+  <strong><a href="ABOUT.md">✨ The Vision Behind LAIVE ✨</a></strong>
 </div>
 ---
 
