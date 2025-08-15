@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="URL_DEL_TUO_LOGO_QUI" alt="LAIVE Logo" width="150"/>
+  <img src="https://jamais.altervista.org/wp-content/uploads/2024/03/logo01.png" alt="LAIVE Logo" width="150"/>
   <h1>LAIVE: Interactive AI Experience</h1>
   <p>
     By merging creativity, artificial intelligence, and a deep understanding of live performance, we craft immersive experiences that combine sound, light, and video in unprecedented ways.
